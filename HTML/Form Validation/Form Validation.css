@@ -17,14 +17,26 @@ body{
 .lab{
  color:red;
  margin-left:80px;
- visibility:hidden;
+ font-weight:bold;
+ /* visibility:hidden; */
 }
 
-#ckbl{
- visibility:hidden;
+#ckblb{
+  color:red;
+  font-weight:bold;
+ /* visibility:hidden; */
 }
 
 #plb{
  margin-left:100px;
 }
 
+#leg{
+    color:red;
+    font-size:35px;
+    font-weight:bold;
+}
+
+#field{
+    border:5px solid black;
+}
