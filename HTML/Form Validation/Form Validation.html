@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>FORM VALIDATION</title>
+<link rel="stylesheet" href="Form Validation.css">
+</head>
+<body>
+<form action="hello.php" onsubmit="return valid()" method="post">
+<fieldset>
+<legend>hhhhhhhhh</legend>
+
+User ID :- <input type="text" id="fid" class="" placeholder="Enter User ID"<br><br><br>
+
+<lable id="nlb" class="lab">*Invalid Input</lable><br>
+NAME :- <input type="text" id="fn" class="" placeholder="Enter Your Name"><br><br><br>
+
+<lable id="plb" class="lab">*Invalid Input</lable><br>
+PASSWORD :- <input type="text" id="fp" class="" placeholder="Enter Your Password"><br><br><br>
+
+<div class="ad">Address :- </div><textarea placeholder="Enter Your Address"></textarea><br><br><br>
+
+<lable id="ddlb" class="lab">*Invalid Input</lable><br>
+COUNTRY :- <select id="dd">
+             <option value="select">---Please Select Your Country---</option>
+             <option></option>
+             <option></option>
+             <option></option>
+             <option></option>
+           </select><br><br><br>
+
+<lable id="pinlb" class="lab">*Invalid Input</lable><br>
+PINCODE :- <input type="text" id="fpin" class="" placeholder="Enter Your Pincode"><br><br><br>
+
+<lable id="elb" class="lab">*Invalid Input</lable><br>
+EMAIL :- <input type="text" id="fe" class="" placeholder="Enter User ID"><br><br><br>
+
+GENDER :- Male<input type="radio" name="radio"> Female<input type="radio" name="radio"><br><br>
+
+LANGUAGE :- English<input type="checkbox" id="ckb1"> NON English<input type="checkbox" id="ckb2"><lable id="ckbl">*Required</lable><br><br>
+
+<input type="submit">
+
+</fieldset>
+</form>
+<script type="type/javascript" src="Form Validation.js"></script>
+</body>
+</html>

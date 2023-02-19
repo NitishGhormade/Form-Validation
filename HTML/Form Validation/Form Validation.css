@@ -1,0 +1,30 @@
+body{
+ background:silver;
+}
+
+.ad{
+ display:inline-block;
+ position:relative;
+ bottom:15px;
+ margin-right:9px;
+}
+
+#ckbl{
+ color:red;
+ 
+}
+
+.lab{
+ color:red;
+ margin-left:80px;
+ visibility:hidden;
+}
+
+#ckbl{
+ visibility:hidden;
+}
+
+#plb{
+ margin-left:100px;
+}
+
