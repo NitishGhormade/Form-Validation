@@ -1,33 +1,33 @@
-# Calculator 💻➕➖✖️➗  
+# Form Validation 🌐✅  
 
-A sleek and functional calculator application built using **HTML**, **CSS**, and **JavaScript**. This simple project provides essential calculator operations with an intuitive interface.  
+**Form Validation** is a simple and functional project built with **HTML**, **CSS**, and **JavaScript**, designed to demonstrate how to validate user input in forms. This project ensures that data entered into the form meets specific requirements, improving user experience and reducing errors.  
 
 ---
 
 ## ✨ Features  
 
-- 🔢 **Basic Arithmetic Operations**  
-  - Perform addition, subtraction, multiplication, and division.  
+- 🖊️ **Real-Time Validation**  
+  - Validates user input as they type.  
 
-- 🎨 **Responsive Design**  
-  - Works seamlessly on both desktop and mobile devices.  
+- 🛡️ **Client-Side Security**  
+  - Ensures invalid data never reaches the server.  
 
-- 🖼️ **Minimalist UI**  
-  - A clean and modern design for a user-friendly experience.  
+- 🔔 **Error Notifications**  
+  - Displays clear error messages for invalid fields.  
 
-- ⚡ **Interactive Buttons**  
-  - Smooth button clicks with responsive feedback.  
+- 🎨 **Stylish Design**  
+  - Responsive and visually appealing form layout.  
 
-- 💻 **Lightweight**  
-  - Purely built with HTML, CSS, and JavaScript.  
+- 💡 **Customizable Rules**  
+  - Easily modify validation rules like required fields, email format, password strength, etc.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **HTML**: For the structure of the calculator.  
-- **CSS**: For styling and responsiveness.  
-- **JavaScript**: For functionality and event handling.  
+- **HTML**: To structure the form and input fields.  
+- **CSS**: For styling and responsive design.  
+- **JavaScript**: To handle validation logic and dynamic error messages.  
 
 ---
 
@@ -41,5 +41,5 @@ A sleek and functional calculator application built using **HTML**, **CSS**, and
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Calculator.git
-   cd Calculator
+   git clone https://github.com/yourusername/FormValidation.git
+   cd FormValidation
